@@ -74,5 +74,262 @@
 		"duration": "6months",
 		"Description": "DESCRIPTION",
 		"Link": "https://online.codingblocks.com/courses/python-for-beginners-developers"
+	},
+ 	{
+		"id": 8,
+		"genre": "Python",
+		"price": "14000",
+		"title": "Basics of Python with Data Structures and Algorithms",
+		"brand": "Coding Ninjas",
+		"image": "https://minio.codingblocks.com/amoeba/dcb441ed-bb76-4730-a53f-04afce81b429.png",
+		"duration": "6months",
+		"Description": "DESCRIPTION",
+		"Link": "https://www.codingninjas.com/courses/python-data-structures-and-algorithms"
+	},
+ 	
+ 	{
+		"id": 9,
+		"genre": "Python",
+		"price": "6500",
+		"title": "Core Python Course",
+		"brand": "Brain Mentors",
+		"image": "https://brain-mentors.com/wp-content/uploads/2020/05/PYTHONcoursestemplate-1536x686.png",
+		"duration": "1months",
+		"Description": "DESCRIPTION",
+		"Link": "https://brain-mentors.com/courses/core-python-course/"
+	},
+ 	
+ 	{
+		"id": 10,
+		"genre": "Python",
+		"price": "500",
+		"title": "The Complete Python Bootcamp From Zero to Hero in Python",
+		"brand": "Udemy",
+		"image": "https://brain-mentors.com/wp-content/uploads/2020/05/PYTHONcoursestemplate-1536x686.png",
+		"duration": "22hrs+",
+		"Description": "DESCRIPTION",
+		"Link": "https://www.udemy.com/course/complete-python-bootcamp/"
+	},
+ 	
+ 	{
+		"id": 11,
+		"genre": "Python",
+		"price": "500",
+		"title": "100 Days of Code: The Complete Python Pro Bootcamp for 2023",
+		"brand": "Udemy",
+		"image": "https://brain-mentors.com/wp-content/uploads/2020/05/PYTHONcoursestemplate-1536x686.png",
+		"duration": "60hrs+",
+		"Description": "DESCRIPTION",
+		"Link": "https://www.udemy.com/course/100-days-of-code/"
+	},
+ 	
+ 	{
+		"id": 12,
+		"genre": "Python",
+		"price": "7999+",
+		"title": "Master Data structures and Algorithms using Python",
+		"brand": "Coding Blocks",
+		"image": "https://cb3img.s3.ap-south-1.amazonaws.com/img/cblogo.webp",
+		"duration": "4/6months",
+		"Description": "DESCRIPTION",
+		"Link": "https://codingblocks.com/data-structures-and-algorithms-using-python.html"
+	},
+ 	{
+		"id": 13,
+		"genre": "MERN",
+		"price": "12500",
+		"title": "Mern Stack Course",
+		"brand": "Brain Mentors",
+		"image": "https://brain-mentors.com/wp-content/uploads/2020/05/coursestemplate-1536x686.png",
+		"duration": "6months",
+		"Description": "DESCRIPTION",
+		"Link": "https://brain-mentors.com/courses/mern-stack-course/"
+	},
+ 	 {
+		"id": 14,
+		"genre": "MERN",
+		"price": "399",
+		"title": "MERN Stack Course 2023 - MongoDB, Express, React and NodeJS",
+		"brand": "Udemy",
+		"image": "https://brain-mentors.com/wp-content/uploads/2020/05/coursestemplate-1536x686.png",
+		"duration": "20hrs+",
+		"Description": "DESCRIPTION",
+		"Link": "https://www.udemy.com/course/mern-stack-course-mongodb-express-react-and-nodejs/"
+	},
+ 	 {
+		"id": 15,
+		"genre": "MERN",
+		"price": "20998",
+		"title": "Full Stack Web Development Course — MERN Stack",
+		"brand": "Coding Ninjas",
+		"image": "https://files.codingninjas.com/cdn-cgi/image/width=434/mern-9588-1-10374.png",
+		"duration": "16months",
+		"Description": "DESCRIPTION",
+		"Link": "https://www.codingninjas.com/courses/full-stack-web-dev-mern"
+	},
+ 	 {
+		"id": 16,
+		"genre": "MERN",
+		"price": "20999",
+		"title": "Master Full stack Web development with node.JS (MERN)",
+		"brand": "Coding Blocks",
+		"image": "https://cb3img.s3.ap-south-1.amazonaws.com/img/cblogo.webp",
+		"duration": "4/6months",
+		"Description": "DESCRIPTION",
+		"Link": "https://codingblocks.com/full-stack-web-development-node-js.html"
+	},
+ 	
+ 	 {
+		"id": 18,
+		"genre": "MERN",
+		"price": "21999",
+		"title": "Master Full stack Web development with node.JS (MERN)",
+		"brand": "Coding Blocks",
+		"image": "https://cb3img.s3.ap-south-1.amazonaws.com/img/cblogo.webp",
+		"duration": "4/6months",
+		"Description": "DESCRIPTION",
+		"Link": "https://dukaan.codingblocks.com/products/11124"
+	},
+ 	
+ 	 {
+		"id": 19,
+		"genre": "ML",
+		"price": "12500",
+		"title": "Machine Learning Course",
+		"brand": "Brain Mentors",
+		"image": "https://brain-mentors.com/wp-content/uploads/2020/05/machinelearning-1536x686.jpg",
+		"duration": "2months",
+		"Description": "DESCRIPTION",
+		"Link": "https://brain-mentors.com/courses/machine-learning-course/"
+	},
+ 	
+ 	 {
+		"id": 20,
+		"genre": "ML",
+		"price": "35000",
+		"title": "Machine Learning Course",
+		"brand": "Coding Ninjas",
+		"image": "https://brain-mentors.com/wp-content/uploads/2020/05/machinelearning-1536x686.jpg",
+		"duration": "6months",
+		"Description": "DESCRIPTION",
+		"Link": "https://www.codingninjas.com/courses/machine-learning"
+	},
+ 	
+ 	 {
+		"id": 21,
+		"genre": "ML",
+		"price": "3300",
+		"title": "Machine Learning Master Course",
+		"brand": "Coding Blocks",
+		"image": "https://cb3img.s3.ap-south-1.amazonaws.com/img/cblogo.webp",
+		"duration": "6months",
+		"Description": "DESCRIPTION",
+		"Link": "https://online.codingblocks.com/courses/machine-learning-course-online"
+	},
+ 	
+ 	 {
+		"id": 22,
+		"genre": "ML",
+		"price": "1800",
+		"title": "Machine Learning Fundamentals",
+		"brand": "Coding Blocks",
+		"image": "https://cb3img.s3.ap-south-1.amazonaws.com/img/cblogo.webp",
+		"duration": "6months",
+		"Description": "DESCRIPTION",
+		"Link": "https://online.codingblocks.com/courses/machine-learning-algorithms"
+	},
+ 	
+ 	 {
+		"id": 23,
+		"genre": "ML",
+		"price": "500",
+		"title": "Machine Learning A-Z™: AI, Python & R + ChatGPT Bonus [2023]",
+		"brand": "Udemy",
+		"image": "https://cb3img.s3.ap-south-1.amazonaws.com/img/cblogo.webp",
+		"duration": "42hours+",
+		"Description": "DESCRIPTION",
+		"Link": "https://www.udemy.com/course/machinelearning/"
+	},
+ 	
+ 	 {
+		"id": 24,
+		"genre": "Java",
+		"price": "10500",
+		"title": "Data Structures and Algorithms java-course",
+		"brand": "Brain Mentors",
+		"image": "https://brain-mentors.com/wp-content/uploads/2020/05/DS-1536x686.png",
+		"duration": "6months",
+		"Description": "DESCRIPTION",
+		"Link": "https://brain-mentors.com/courses/data-structures-algorithms-java-course/"
+	},
+ 	 {
+		"id": 25,
+		"genre": "Java",
+		"price": "1950",
+		"title": "Java Master Course | Crux",
+		"brand": "Coding Blocks",
+		"image": "https://cb3img.s3.ap-south-1.amazonaws.com/img/cblogo.webp",
+		"duration": "6months",
+		"Description": "DESCRIPTION",
+		"Link": "https://online.codingblocks.com/courses/complete-java-course-online"
+	},
+ 	
+ 	 {
+		"id": 26,
+		"genre": "Java",
+		"price": "11899",
+		"title": "Basics of Java with Data Structures and Algorithms",
+		"brand": "Coding Ninjas",
+		"image": "https://cb3img.s3.ap-south-1.amazonaws.com/img/cblogo.webp",
+		"duration": "6months",
+		"Description": "DESCRIPTION",
+		"Link": "https://www.codingninjas.com/courses/java-data-structures-and-algorithms"
+	},
+ 	 {
+		"id": 27,
+		"genre": "Java",
+		"price": "399",
+		"title": "Java Programming for Complete Beginners",
+		"brand": "Udemy",
+		"image": "https://s.udemycdn.com/meta/default-meta-image-v2.png",
+		"duration": "33hrs+",
+		"Description": "DESCRIPTION",
+		"Link": "https://www.udemy.com/course/java-programming-tutorial-for-beginners/"
+	},
+ 	 {
+		"id": 28,
+		"genre": "Flutter",
+		"price": "16000",
+		"title": "Flutter Course",
+		"brand": "Brain Mentors",
+		"image": "https://brain-mentors.com/wp-content/uploads/2020/05/FLUTTER-1536x686.png",
+		"duration": "5months",
+		"Description": "DESCRIPTION",
+		"Link": "https://brain-mentors.com/courses/flutter/"
+	},
+ 	
+ 	 {
+		"id": 29,
+		"genre": "UI-UX",
+		"price": "8500",
+		"title": "UI Development Course",
+		"brand": "Brain Mentors",
+		"image": "https://brain-mentors.com/wp-content/uploads/2020/05/UIcoursestemplate-1536x686.png",
+		"duration": "1.5months",
+		"Description": "DESCRIPTION",
+		"Link": "https://brain-mentors.com/courses/ui-development-course/"
+	},
+ 	
+ 	 {
+		"id": 30,
+		"genre": "React",
+		"price": "8500",
+		"title": "UI Development Course",
+		"brand": "Brain Mentors",
+		"image": "https://brain-mentors.com/wp-content/uploads/2020/05/REACTcoursestemplate-1536x686.png",
+		"duration": "2months",
+		"Description": "DESCRIPTION",
+		"Link": "https://brain-mentors.com/courses/react-course-in-rohini/"
 	}
+ 	
 ]
