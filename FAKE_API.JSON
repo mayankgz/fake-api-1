@@ -6,8 +6,10 @@
 		"brand": "Coding Blocks",
 		"image": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Python-logo-notext.svg/1200px-Python-logo-notext.svg.png",
 		"duration": "6months",
-		"Description": "DESCRIPTION",
-		"Link": "https://online.codingblocks.com/courses/c-plus-plus-online-course-for-beginners"
+		"Description": "First of its kind, our C++ online course for beginners is a uniquely designed online course in Data Structures and Algorithms to aid your journey right from the beginning to the very end in becoming the most skilled software engineers across the globe. Our online course in C++ is not only in absolute coherence with our most sought after classroom program, but also provides you the comfort of learning at your home. With over 300 video lectures and several practice problems.",
+		"Link": "https://online.codingblocks.com/courses/c-plus-plus-online-course-for-beginners",
+		"rating": 4.61
+
 	},
 	{
 		"id": 2,
@@ -17,8 +19,9 @@
 		"brand": "Coding Ninjas",
 		"image": "https://www.simplilearn.com/ice9/free_resources_article_thumb/What_is_CPP.jpg",
 		"duration": "6months",
-		"Description": "DESCRIPTION",
-		"Link": "https://www.codingninjas.com/courses/c-plus-plus-data-structures-and-algorithms"
+		"Description": "This is the course to pick if you are just getting into coding and want to build a strong foundation. Widely used in competitive programming.",
+		"Link": "https://www.codingninjas.com/courses/c-plus-plus-data-structures-and-algorithms",
+		"rating": 4.8
 	},
 	{
 		"id": 3,
@@ -28,8 +31,9 @@
 		"brand": "Udemy",
 		"image": "https://www.simplilearn.com/ice9/free_resources_article_thumb/What_is_CPP.jpg",
 		"duration": "46hours+",
-		"Description": "DESCRIPTION",
-		"Link": "https://www.udemy.com/course/beginning-c-plus-plus-programming/"
+		"Description": "This is the course to pick if you are just getting into coding and want to build a strong foundation. Widely used in competitive programming.",
+		"Link": "https://www.udemy.com/course/beginning-c-plus-plus-programming/",
+		"rating": 4.6
 	},
 	{
 		"id": 4,
@@ -39,8 +43,9 @@
 		"brand": "Brain-Mentors",
 		"image": "https://brain-mentors.com/wp-content/uploads/2020/05/CPPcoursestemplate-1536x686.png",
 		"duration": "1.5months",
-		"Description": "",
-		"Link": "https://brain-mentors.com/courses/c-plus-plus-programming-course/"
+		"Description": "desc",
+		"Link": "https://brain-mentors.com/courses/c-plus-plus-programming-course/",
+		"rating": 4.5
 	},
 	{
 		"id": 5,
@@ -50,8 +55,9 @@
 		"brand": "Udemy",
 		"image": "https://www.simplilearn.com/ice9/free_resources_article_thumb/What_is_CPP.jpg",
 		"duration": "36 hours+",
-		"Description": "Description",
-		"Link": "https://www.udemy.com/course/learn-c-from-zero-to-mastery/"
+		"Description": "This course is taught by Harsh and Jatin who are popular programming instructor and senior software engineers, currently working with Amazon. Their aim is to bring high quality courses at pocket friendly pricing. They are known for amazingly simplified explanations that makes everyone fall in love with programming. Harsh and Jatin have over 3+ years of teaching experience and has trained over 10,000+ students in their online courses in the past. Their expertise lies in C++ , data structures and algorithms, coding interview preparation. Many of their ex-students are now working in top product companies like Apple, Google, Amazon, Microsoft, Samsung, Adobe and more.",
+		"Link": "https://www.udemy.com/course/learn-c-from-zero-to-mastery/",
+		"rating": 4.3
 	},
 	{
 		"id": 6,
@@ -61,8 +67,9 @@
 		"brand": "Coding Blocks",
 		"image": "https://minio.codingblocks.com/amoeba/012ba125-5dd1-42ec-ab69-3e677519e0e4.svg",
 		"duration": "6months",
-		"Description": "Description",
-		"Link": "https://online.codingblocks.com/courses/placements-course-online-c-plus-plus"
+		"Description": "The online coding Interview Course by Coding Blocks is the place for you. This self-paced online Interview preparation course bridges the gap between the theoretical knowledge and the quick coding tricks and tips that the industry employers look for in their potential candidates. This online Bootcamp covers the topics such as Operating Systems, DBMS and System Design along with important coding questions asked in the interview process of companies like Google, Facebook, Amazon, Microsoft, Directi, Zomato, etc.",
+		"Link": "https://online.codingblocks.com/courses/placements-course-online-c-plus-plus",
+		"rating": 5
 	},
 	{
 		"id": 7,
@@ -72,10 +79,11 @@
 		"brand": "Coding Blocks",
 		"image": "https://minio.codingblocks.com/amoeba/dcb441ed-bb76-4730-a53f-04afce81b429.png",
 		"duration": "6months",
-		"Description": "DESCRIPTION",
-		"Link": "https://online.codingblocks.com/courses/python-for-beginners-developers"
+		"Description": "First of its kind, our Python online for Developers is a uniquely designed online course in Python to aid your journey right from the beginning to the very end in becoming the most skilled software engineers across the globe. Our online course in Python is not only in absolute coherence with our most sought after classroom program, but also provides you the comfort of learning at your home. With over 50 video lectures, all our doubt classes will also be held live on our own online platform so as to provide the students with the most effective doubt solving, in a one-to-one conversational format.",
+		"Link": "https://online.codingblocks.com/courses/python-for-beginners-developers",
+		"rating": 4.48
 	},
- 	{
+	{
 		"id": 8,
 		"genre": "Python",
 		"price": "14000",
@@ -83,11 +91,12 @@
 		"brand": "Coding Ninjas",
 		"image": "https://minio.codingblocks.com/amoeba/dcb441ed-bb76-4730-a53f-04afce81b429.png",
 		"duration": "6months",
-		"Description": "DESCRIPTION",
-		"Link": "https://www.codingninjas.com/courses/python-data-structures-and-algorithms"
+		"Description": "This is the course to pick if you are just getting into coding and want to build a strong foundation. Widely used in Data Science & Machine Learning.Python programs are simple in syntax with extensive library support which helps the programmers to come up with required logic with few lines of code. It is popular and widely used in the data domains like data science, Machine learning, deep learning etc.., So, if you are looking for a career in the field of Artificial Intelligence then it is good to start with the Python language",
+		"Link": "https://www.codingninjas.com/courses/python-data-structures-and-algorithms",
+		"rating": 4.8
 	},
- 	
- 	{
+
+	{
 		"id": 9,
 		"genre": "Python",
 		"price": "6500",
@@ -95,11 +104,12 @@
 		"brand": "Brain Mentors",
 		"image": "https://brain-mentors.com/wp-content/uploads/2020/05/PYTHONcoursestemplate-1536x686.png",
 		"duration": "1months",
-		"Description": "DESCRIPTION",
-		"Link": "https://brain-mentors.com/courses/core-python-course/"
+		"Description": "Python is a widely used high-level, general-purpose, dynamic programming language. Its syntax allows programmers to express concepts in fewer lines of code than possible in languages such as C++ or Java. Python syntax is just like English. It uses words like ‘and’, ‘or’, ‘not’ which takes a lot of syntax-learning stress off coding beginners. After completing python you can easily perform Web Development, Software Development, Desktop GUIs, Game Programming, Robotics and most important Machine Learning. We mainly focus on practical part and less theory. So it will be like 90% practical in every course and 10% theory. The training will start with very basic concepts and then we’ll take you to advance concepts.",
+		"Link": "https://brain-mentors.com/courses/core-python-course/",
+		"rating": 4.7
 	},
- 	
- 	{
+
+	{
 		"id": 10,
 		"genre": "Python",
 		"price": "500",
@@ -107,11 +117,12 @@
 		"brand": "Udemy",
 		"image": "https://brain-mentors.com/wp-content/uploads/2020/05/PYTHONcoursestemplate-1536x686.png",
 		"duration": "22hrs+",
-		"Description": "DESCRIPTION",
-		"Link": "https://www.udemy.com/course/complete-python-bootcamp/"
+		"Description": "This is the most comprehensive, yet straight-forward, course for the Python programming language on Udemy Whether you have never programmed before, already know basic syntax, or want to learn about the advanced features of Python, this course is for you In this course we will teach you Python 3. With over 100 lectures and more than 21 hours of video, this comprehensive course leaves no stone unturned This course includes quizzes, tests, coding exercises, and homework assignments as well as 3 major projects to create a Python project portfolio",
+		"Link": "https://www.udemy.com/course/complete-python-bootcamp/",
+		"rating": 4.6
 	},
- 	
- 	{
+
+	{
 		"id": 11,
 		"genre": "Python",
 		"price": "500",
@@ -119,11 +130,12 @@
 		"brand": "Udemy",
 		"image": "https://brain-mentors.com/wp-content/uploads/2020/05/PYTHONcoursestemplate-1536x686.png",
 		"duration": "60hrs+",
-		"Description": "DESCRIPTION",
-		"Link": "https://www.udemy.com/course/100-days-of-code/"
+		"Description": "Master Python by building 100 projects in 100 days. Learn data science, automation, build websites, games and apps!.Welcome to the 100 Days of Code - The Complete Python Pro Bootcamp, the only course you need to learn to code with Python. With over 500,000 5 STAR reviews and a 4.8 average, my courses are some of the HIGHEST RATED courses in the history of Udemy!  ",
+		"Link": "https://www.udemy.com/course/100-days-of-code/",
+		"rating": 4.7
 	},
- 	
- 	{
+
+	{
 		"id": 12,
 		"genre": "Python",
 		"price": "7999+",
@@ -131,10 +143,11 @@
 		"brand": "Coding Blocks",
 		"image": "https://cb3img.s3.ap-south-1.amazonaws.com/img/cblogo.webp",
 		"duration": "4/6months",
-		"Description": "DESCRIPTION",
-		"Link": "https://codingblocks.com/data-structures-and-algorithms-using-python.html"
+		"Description": "This course is ideal for students stepping into the world of coding or for those who have intermediate expertise and want to become a Pro Coder.Python is one of the easiest languages to start coding. Choose this if you are just about to start and look forward to quicker Web dev options using Django or want to excel in Data science or ML.",
+		"Link": "https://codingblocks.com/data-structures-and-algorithms-using-python.html",
+		"rating": 4.5
 	},
- 	{
+	{
 		"id": 13,
 		"genre": "MERN",
 		"price": "12500",
@@ -142,10 +155,11 @@
 		"brand": "Brain Mentors",
 		"image": "https://brain-mentors.com/wp-content/uploads/2020/05/coursestemplate-1536x686.png",
 		"duration": "6months",
-		"Description": "DESCRIPTION",
-		"Link": "https://brain-mentors.com/courses/mern-stack-course/"
+		"Description": "MERN Stack is for Full Stack Web Development. It is a collection of JavaScript Based Technologies. It is Trending and popular. Companies like NetFlix, Uber, Ebay, LinkedIn, Trello, FaceBook, Yahoo and many more using ReactJS and Node JS. MERN is combination of Front End , BackEnd , DataBase and Deployment , Here React JS for Front End and Node JS , Express JS and MongoDB is for BackEnd.",
+		"Link": "https://brain-mentors.com/courses/mern-stack-course/",
+		"rating": 4.67
 	},
- 	 {
+	{
 		"id": 14,
 		"genre": "MERN",
 		"price": "399",
@@ -153,10 +167,11 @@
 		"brand": "Udemy",
 		"image": "https://brain-mentors.com/wp-content/uploads/2020/05/coursestemplate-1536x686.png",
 		"duration": "20hrs+",
-		"Description": "DESCRIPTION",
-		"Link": "https://www.udemy.com/course/mern-stack-course-mongodb-express-react-and-nodejs/"
+		"Description": "Build Full Stack Application from Scratch with MongoDB, Express, React and NodeJS.What's up everybody, this is John from Coding Addict and welcome to my MERN Stack course . During the course we will build full stack application (Jobify) from scratch, using MongoDB, Express, React and Node.js",
+		"Link": "https://www.udemy.com/course/mern-stack-course-mongodb-express-react-and-nodejs/",
+		"rating": 4.8
 	},
- 	 {
+	{
 		"id": 15,
 		"genre": "MERN",
 		"price": "20998",
@@ -164,10 +179,11 @@
 		"brand": "Coding Ninjas",
 		"image": "https://files.codingninjas.com/cdn-cgi/image/width=434/mern-9588-1-10374.png",
 		"duration": "16months",
-		"Description": "DESCRIPTION",
-		"Link": "https://www.codingninjas.com/courses/full-stack-web-dev-mern"
+		"Description": "Learn to build entire web applications from start to finish on one of the most versatile tech stacks : MongoDB, Express.js, React.js and Node.js (MERN stack).Build a clone of iPod nano 5th gen",
+		"Link": "https://www.codingninjas.com/courses/full-stack-web-dev-mern",
+		"rating": "4.8"
 	},
- 	 {
+	{
 		"id": 16,
 		"genre": "MERN",
 		"price": "20999",
@@ -175,11 +191,12 @@
 		"brand": "Coding Blocks",
 		"image": "https://cb3img.s3.ap-south-1.amazonaws.com/img/cblogo.webp",
 		"duration": "4/6months",
-		"Description": "DESCRIPTION",
-		"Link": "https://codingblocks.com/full-stack-web-development-node-js.html"
+		"Description": "This course is for students who want to learn how to build Web applications from scratch using Front end (HTML/CSS/JS) and Backend (Node.js) technologies.For any language the first and the most important thing to learn is the syntax, variables, loops, and conditionals. In this section, we will cover how to convert our logic to Code.",
+		"Link": "https://codingblocks.com/full-stack-web-development-node-js.html",
+		"rating": 4.7
 	},
- 	
- 	 {
+
+	{
 		"id": 18,
 		"genre": "MERN",
 		"price": "21999",
@@ -187,11 +204,12 @@
 		"brand": "Coding Blocks",
 		"image": "https://cb3img.s3.ap-south-1.amazonaws.com/img/cblogo.webp",
 		"duration": "4/6months",
-		"Description": "DESCRIPTION",
-		"Link": "https://dukaan.codingblocks.com/products/11124"
+		"Description": "The online course for Web Development by Coding Blocks is deftly designed with an aim to familiarize the young coders with all the know-how of developing the most coherent and professional websites & web-portals. This online Web Development course is a project-based Full Stack web development course with backend in Node.JS. As a part of these online Web Development classes, the students will start off with the fundamentals of building basic websites and will go on to create more functional and complex portals. The course will start with topics such as HTML, CSS, and JS and then move on to important concepts such as version control, databases, Node.Js and advanced topics such as security.",
+		"Link": "https://dukaan.codingblocks.com/products/11124",
+		"rating": 4.67
 	},
- 	
- 	 {
+
+	{
 		"id": 19,
 		"genre": "ML",
 		"price": "12500",
@@ -199,11 +217,12 @@
 		"brand": "Brain Mentors",
 		"image": "https://brain-mentors.com/wp-content/uploads/2020/05/machinelearning-1536x686.jpg",
 		"duration": "2months",
-		"Description": "DESCRIPTION",
-		"Link": "https://brain-mentors.com/courses/machine-learning-course/"
+		"Description": "You are using machine learning directly or indirectly from the moment you wake up till the moment you go to sleep.Every single second you are surrounded by machine learning applications.If you are using google,Facebook,YouTube,Instagram,LinkedIn,or any other application then it means you are using machine learning applications.So what exactly machine learning is… ? Machine learning is a type of artificial intelligence(AI) that allows software applications to become more accurate in predicting outcomes without being explicitly programmed.To understand machine learning clearly you need to have a mathematics background and a programming language(preferred Python) to implement those math formulas.It’ s a deadly combination of math and programming.",
+		"Link": "https://brain-mentors.com/courses/machine-learning-course/",
+		"rating": 4.8
 	},
- 	
- 	 {
+
+	{
 		"id": 20,
 		"genre": "ML",
 		"price": "35000",
@@ -211,11 +230,12 @@
 		"brand": "Coding Ninjas",
 		"image": "https://brain-mentors.com/wp-content/uploads/2020/05/machinelearning-1536x686.jpg",
 		"duration": "6months",
-		"Description": "DESCRIPTION",
-		"Link": "https://www.codingninjas.com/courses/machine-learning"
+		"Description": "Machine learning is a branch of artificial intelligence that involves developing algorithms and statistical models that enable computers to learn and make predictions or decisions based on data, without being explicitly programmed. The goal of machine learning is to enable machines to learn from experience and improve their performance on a given task over time.",
+		"Link": "https://www.codingninjas.com/courses/machine-learning",
+		"rating": 4.8
 	},
- 	
- 	 {
+
+	{
 		"id": 21,
 		"genre": "ML",
 		"price": "3300",
@@ -223,11 +243,12 @@
 		"brand": "Coding Blocks",
 		"image": "https://cb3img.s3.ap-south-1.amazonaws.com/img/cblogo.webp",
 		"duration": "6months",
-		"Description": "DESCRIPTION",
-		"Link": "https://online.codingblocks.com/courses/machine-learning-course-online"
+		"Description": "This online Machine Learning course by Coding Blocks is one of its kind. The course comprising of over 200 recorded tutorials and 20 mini projects for teaching, boasts of an all-exhaustive and highly comprehensive curriculum. The Machine Learning online course starts with the essentials of Python, gradually moving towards to concepts of advanced algorithms and finally into the cores of Machine Learning. With our key focus being the live projects, we dive deeper into the fundamentals of classical algorithms and deep neural networks enabling the students to work out optimising solutions to the real-world problems",
+		"Link": "https://online.codingblocks.com/courses/machine-learning-course-online",
+		"rating": 4.6
 	},
- 	
- 	 {
+
+	{
 		"id": 22,
 		"genre": "ML",
 		"price": "1800",
@@ -235,11 +256,12 @@
 		"brand": "Coding Blocks",
 		"image": "https://cb3img.s3.ap-south-1.amazonaws.com/img/cblogo.webp",
 		"duration": "6months",
-		"Description": "DESCRIPTION",
-		"Link": "https://online.codingblocks.com/courses/machine-learning-algorithms"
+		"Description": "This online Machine Learning course by Coding Blocks is one of its kind. The course comprising of over 200 recorded tutorials and 20 mini projects for teaching, boasts of an all-exhaustive and highly comprehensive curriculum. The Machine Learning online course starts with the essentials of Python, gradually moving towards to concepts of advanced algorithms and finally into the cores of Machine Learning. With our key focus being the live projects, we dive deeper into the fundamentals of classical algorithms and deep neural networks enabling the students to work out optimizing solutions to the real-world problems. ",
+		"Link": "https://online.codingblocks.com/courses/machine-learning-algorithms",
+		"rating": 4.60
 	},
- 	
- 	 {
+
+	{
 		"id": 23,
 		"genre": "ML",
 		"price": "500",
@@ -247,11 +269,12 @@
 		"brand": "Udemy",
 		"image": "https://cb3img.s3.ap-south-1.amazonaws.com/img/cblogo.webp",
 		"duration": "42hours+",
-		"Description": "DESCRIPTION",
-		"Link": "https://www.udemy.com/course/machinelearning/"
+		"Description": "Learn to create Machine Learning Algorithms in Python and R from two Data Science experts. Code templates included.This course has been designed by a Data Scientist and a Machine Learning expert so that we can share our knowledge and help you learn complex theory, algorithms, and coding libraries in a simple way.Over 900,000 students world - wide trust this course.",
+		"Link": "https://www.udemy.com/course/machinelearning/",
+		"rating": 4.5
 	},
- 	
- 	 {
+
+	{
 		"id": 24,
 		"genre": "Java",
 		"price": "10500",
@@ -259,10 +282,11 @@
 		"brand": "Brain Mentors",
 		"image": "https://brain-mentors.com/wp-content/uploads/2020/05/DS-1536x686.png",
 		"duration": "6months",
-		"Description": "DESCRIPTION",
-		"Link": "https://brain-mentors.com/courses/data-structures-algorithms-java-course/"
+		"Description": "Data Structure & Algorithms (DSA) - All Most every company Interview Round envolve DSA , to Test candidate Problem Solving Ability .We covers 500 + Coding Problems asked in Top MNC.Covers Questions from LeetCode,GFG,Interview Bit and many more ",
+		"Link": "https://brain-mentors.com/courses/data-structures-algorithms-java-course/",
+		"rating": 4.6
 	},
- 	 {
+	{
 		"id": 25,
 		"genre": "Java",
 		"price": "1950",
@@ -270,11 +294,12 @@
 		"brand": "Coding Blocks",
 		"image": "https://cb3img.s3.ap-south-1.amazonaws.com/img/cblogo.webp",
 		"duration": "6months",
-		"Description": "DESCRIPTION",
-		"Link": "https://online.codingblocks.com/courses/complete-java-course-online"
+		"Description": "We recomend our all new tracks with newer content and guided learning experience. Explore and choose courses from Java Data Structures & Algorithms Track instead of this course!.First of its kind, our Java online course for beginners is a uniquely designed online course in Data Structures and Algorithms to aid your journey right from the beginning to the very end in becoming the most skilled software engineers across the globe.",
+		"Link": "https://online.codingblocks.com/courses/complete-java-course-online",
+		"rating": 4.8
 	},
- 	
- 	 {
+
+	{
 		"id": 26,
 		"genre": "Java",
 		"price": "11899",
@@ -282,10 +307,11 @@
 		"brand": "Coding Ninjas",
 		"image": "https://cb3img.s3.ap-south-1.amazonaws.com/img/cblogo.webp",
 		"duration": "6months",
-		"Description": "DESCRIPTION",
-		"Link": "https://www.codingninjas.com/courses/java-data-structures-and-algorithms"
+		"Description": "This is the course to pick if you are just getting into coding and want to build a strong foundation. Widely used in IT industry.No matter whatever career path you choose in the field of computer science, data structures and algorithms lies at the root of it",
+		"Link": "https://www.codingninjas.com/courses/java-data-structures-and-algorithms",
+		"rating": 4.8
 	},
- 	 {
+	{
 		"id": 27,
 		"genre": "Java",
 		"price": "399",
@@ -293,10 +319,11 @@
 		"brand": "Udemy",
 		"image": "https://s.udemycdn.com/meta/default-meta-image-v2.png",
 		"duration": "33hrs+",
-		"Description": "DESCRIPTION",
-		"Link": "https://www.udemy.com/course/java-programming-tutorial-for-beginners/"
+		"Description": "Java Programming for Beginners to Java Object Oriented Programming. Core Java + REST API with Spring Boot. Java 8 to 16.LEARN JAVA PROGRAMMING WRITING 200+ JAVA PROGRAMS, PUZZLES & EXERCISES.RECOMMENDEDfor absolute beginners to Java and Programming!BONUS - Learn to Build REST API with Spring,Spring Boot,and JPA ",
+		"Link": "https://www.udemy.com/course/java-programming-tutorial-for-beginners/",
+		"rating": 4.6
 	},
- 	 {
+	{
 		"id": 28,
 		"genre": "Flutter",
 		"price": "16000",
@@ -304,11 +331,12 @@
 		"brand": "Brain Mentors",
 		"image": "https://brain-mentors.com/wp-content/uploads/2020/05/FLUTTER-1536x686.png",
 		"duration": "5months",
-		"Description": "DESCRIPTION",
-		"Link": "https://brain-mentors.com/courses/flutter/"
+		"Description": "Flutter is one stop solution for Mobile, Web and Desktop Front end development, Develop By Google. Rank No 1 for Cross Platform mobile app development.Flutter is an open-source mobile application development framework created by Google. It is used to develop high-performance, cross-platform mobile apps for Android, iOS, and web platforms from a single codebase. Flutter uses the Dart programming language, which was also created by Google and is designed to be easy to learn, flexible, and fast.",
+		"Link": "https://brain-mentors.com/courses/flutter/",
+		"rating": 4.6
 	},
- 	
- 	 {
+
+	{
 		"id": 29,
 		"genre": "UI-UX",
 		"price": "8500",
@@ -316,11 +344,12 @@
 		"brand": "Brain Mentors",
 		"image": "https://brain-mentors.com/wp-content/uploads/2020/05/UIcoursestemplate-1536x686.png",
 		"duration": "1.5months",
-		"Description": "DESCRIPTION",
-		"Link": "https://brain-mentors.com/courses/ui-development-course/"
+		"Description": "UI is basically referred to as User Interface. UI includes technologies like HTML, CSS and Javascript. These are the only technologies that can build front end of any web application. UI is must have for those who want to build there career in web development. User get attracted only because of your UI part. The better your UI is the more time user will spend on your application.",
+		"Link": "https://brain-mentors.com/courses/ui-development-course/",
+		"rating": 4.8
 	},
- 	
- 	 {
+
+	{
 		"id": 30,
 		"genre": "React",
 		"price": "8500",
@@ -328,8 +357,9 @@
 		"brand": "Brain Mentors",
 		"image": "https://brain-mentors.com/wp-content/uploads/2020/05/REACTcoursestemplate-1536x686.png",
 		"duration": "2months",
-		"Description": "DESCRIPTION",
-		"Link": "https://brain-mentors.com/courses/react-course-in-rohini/"
+		"Description": "React is a very popular Library for Building Component Based Application React JS is build by Facebook and it is an Open Source Library for Building Modern Applications. It is used for Building Web Application and Cross Platform Mobile Application (IOS/ Android).",
+		"Link": "https://brain-mentors.com/courses/react-course-in-rohini/",
+		"rating": 4.7
 	}
- 	
+
 ]
